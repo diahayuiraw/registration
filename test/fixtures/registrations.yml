@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  full_name: 
+  NIM: 
+  email: 
+  gender: 
+  department: 
+  phone_number: 
+  line_id: 
+  batch: 
+  achivement: MyString
+
+two:
+  full_name: 
+  NIM: 
+  email: 
+  gender: 
+  department: 
+  phone_number: 
+  line_id: 
+  batch: 
+  achivement: MyString
